@@ -48,6 +48,8 @@ foreach($fruits as $fruit){
 
 echo "\n\n";
 
+
+
 //ーーー課題３ーーー
 echo "課題４\n";
 
